@@ -1,0 +1,20 @@
+{
+    "Author": "GordonB007",
+    "ContentSize": 3628,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-ea-send-billing-estimate-email/master/Send-BillEstimate.ps1",
+    "DownloadCount": 1519,
+    "Id": "Azure-EA-Send-Billing-fd66283a",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 317,
+    "RaterCount": 3,
+    "Rating": 4.7,
+    "ReleaseDate": "2015-5-26T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Uses the Microsoft Azure Enterprise Agreement API to estimate your annual Microsoft Azure bill based on the last days usage.",
+    "Title": "Azure EA - Send Billing Estimate Email",
+    "UpdatedDate": "2017-4-4T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-ea-send-billing-estimate-email",
+    "UserTags": "Microsoft Azure, Powershell, Email notification"
+}
